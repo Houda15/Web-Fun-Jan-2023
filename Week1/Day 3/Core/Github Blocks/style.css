@@ -1,0 +1,35 @@
+.container {
+    background-color: #ecf5f7;
+    width: 950px;
+    margin: auto;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 50px;
+}
+.first{
+    background-color: rgb(76, 198, 221);
+    margin: auto;
+    justify-content: space-around;
+    display: flex;
+}
+
+.second{
+background-color: #d8aabc;
+margin: auto;
+justify-content: space-around;
+display: flex;
+}
+.third{
+    background-color: #FCFCFF;
+    margin:auto ;
+    display: flex;
+    justify-content: space-around;
+
+}
+img{
+    width: 20%;
+}
